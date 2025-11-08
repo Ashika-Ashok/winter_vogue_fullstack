@@ -1,0 +1,1 @@
+Run: npm install && npm start (backend runs on port 4000)

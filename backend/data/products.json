@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Puffer Winter Jacket",
+    "price": 3999,
+    "image": "https://plus.unsplash.com/premium_photo-1670623042512-1a5ecebc3f42?auto=format&fit=crop&q=80&w=1964"
+  },
+  {
+    "id": 2,
+    "name": "Chunky Wool Scarf",
+    "price": 699,
+    "image": "https://plus.unsplash.com/premium_photo-1681912438581-78dcb6d0dce1?auto=format&fit=crop&q=80&w=2009"
+  },
+  {
+    "id": 3,
+    "name": "Leather Snow Boots",
+    "price": 2499,
+    "image":  "https://media.istockphoto.com/id/1457593583/photo/side-view-legs-of-woman-walking-through-snow.jpg?s=1024x1024&w=is&k=20&c=v2wIpxNKUtL3fq3aH80AHXdRsnEsx6O8cChFEk3uXEY="
+  },
+  {
+    "id": 4,
+    "name": "Cozy Knit Sweater",
+    "price": 1999,
+    "image": "https://images.unsplash.com/photo-1612208141706-2fbd2d45a143?auto=format&fit=crop&q=80&w=2069"
+  },
+  
+  {
+    "id": 5,
+    "name": "Fleece Beanie",
+    "price": 799,
+    "image": "https://images.unsplash.com/photo-1648483092137-6e63796c8b06?auto=format&fit=crop&q=80&w=1965"
+  }
+]
