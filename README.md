@@ -6,7 +6,6 @@ Winter Vogue is a full-stack **winter fashion e-commerce web application** that 
 The project focuses on a clean user experience, seamless cart management, and interactive order tracking — making it a modern shopping solution.
 
 Developed as part of an **academic full-stack web development assignment** to demonstrate integration of **frontend (React)**, **backend (Node.js + Express)**, and **database (MongoDB)** technologies.
-
 ---
 
  🛠️ Tech Stack
@@ -29,6 +28,7 @@ Developed as part of an **academic full-stack web development assignment** to de
 
 * Beautiful winter-themed design with an introductory section and cozy shopping vibe.
 * Highlighted collection showcase and animation for an engaging experience.
+  <img width="1255" height="843" alt="image" src="https://github.com/user-attachments/assets/a0b3ef5c-8205-4de4-a914-2bb3cb326a20" />
 
 ### 🛍️ Shop Page
 
@@ -36,12 +36,17 @@ Developed as part of an **academic full-stack web development assignment** to de
 * Displays them as **uniform, responsive cards** in a grid layout.
 * Each product card includes an image, name, price, and **Add to Cart** button.
 * Displays a 🎉 celebration message when a product is added.
+<img width="1228" height="864" alt="image" src="https://github.com/user-attachments/assets/b42f9ae4-18f5-46a5-8637-ba2f14a2b93c" />
 
 ### 🛒 Cart Page
 
 * Shows all added items with quantity, total price, and remove option.
 * Displays a **“Place Order”** button.
 * On clicking, opens a simulated **billing, location confirmation, and payment selection** modal.
+  <img width="1630" height="834" alt="image" src="https://github.com/user-attachments/assets/afed147f-ec60-4067-a703-7e9caae51791" />
+  <img width="1622" height="655" alt="image" src="https://github.com/user-attachments/assets/5222828f-c2e2-4d9a-beb3-86da24c02fb6" />
+  <img width="1741" height="817" alt="image" src="https://github.com/user-attachments/assets/4e1a4607-404b-4ab9-9036-ed25422cddbf" />
+
 
 ### 📦 Order Tracking
 
@@ -52,17 +57,22 @@ Developed as part of an **academic full-stack web development assignment** to de
   * Shipped
   * Out for Delivery
   * Delivered ✅
+    
 
 ### 👤 Profile Page
 
 * Displays customer details and past orders with timestamp and delivery status.
 * Editable **“My Details”** section to update profile information.
 * Visually styled with card layout and accent colors.
+  <img width="1490" height="855" alt="image" src="https://github.com/user-attachments/assets/c19aefb2-8c75-4907-b322-ac2a792baa1d" />
+
 
 ### ℹ️ About Page
 
 * Describes the brand’s sustainable approach and eco-friendly winter wear mission.
 * Includes inspiring design and community message.
+  <img width="1588" height="845" alt="image" src="https://github.com/user-attachments/assets/d448536a-68f4-4c1e-8dc1-6245d1f96197" />
+
 
 ---
 
